@@ -1,0 +1,40 @@
+.principal{
+    background-color: green;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.n1{
+    background-color: greenyellow;
+    margin: 15px;
+    height: 700px;
+    width: 410px;
+    position: relative;
+}
+.n2{
+    background-color: red;
+    margin: 5px;
+    width: 126px;
+    height: 80px;
+    float: left;
+    
+}
+.n3{
+    background-color: red;
+    width: 400px;
+    height: 100px;
+    margin: 5px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.n4{
+    background-color: red;
+    width: 400px;
+    height: 100px;
+    margin: 5px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
